@@ -1,6 +1,6 @@
 # Pacman
-CSE 511 in WUSTL
-Introduction to AI
+# CSE 511 in WUSTL
+# Introduction to AI
 
 Project 1: Using BFS, DFS, Greedy, ExpectiMax, AStar to find the path to food
 Project 2: Using alpha-bata to win the game
